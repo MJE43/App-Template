@@ -1,3 +1,5 @@
+import { Chord } from "./progression-types"
+
 // types/audio-types.ts
 export interface AudioSettings {
   volume: number
